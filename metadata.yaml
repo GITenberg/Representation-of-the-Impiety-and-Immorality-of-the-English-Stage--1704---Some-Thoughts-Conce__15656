@@ -18,6 +18,8 @@ covers:
 - cover_type: generated
   image_path: cover.png
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/15656#Representation-of-the-Impiety-and-Immorality-of-the-English-Stage--1704---Some-Thoughts-Conce_
 gutenberg_issued: '2005-04-19'
 gutenberg_type: Text
 identifiers:
