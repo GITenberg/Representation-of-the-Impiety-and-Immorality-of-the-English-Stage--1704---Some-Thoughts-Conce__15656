@@ -1,0 +1,38 @@
+_repo: Representation-of-the-Impiety-and-Immorality-of-the-English-Stage--1704---Some-Thoughts-Conce__15656
+_version: 0.1.0
+contributor:
+  author_of_introduction:
+    agent_name: Avery, Emmett Langdon
+    alias: Avery, Emmett L.
+    birthdate: 1903
+    deathdate: 1970
+    gutenberg_agent_id: '35371'
+    url: http://www.gutenberg.org/2009/agents/35371
+  contributor:
+    agent_name: Woodward, Josiah
+    birthdate: 1660
+    deathdate: 1712
+    gutenberg_agent_id: '6743'
+    url: http://www.gutenberg.org/2009/agents/6743
+covers:
+- cover_type: generated
+  image_path: cover.png
+description: ''
+gutenberg_issued: '2005-04-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '15656'
+  lccn: '50001549'
+language: en
+publication_note: 'Los Angeles :  The Augustan Reprint Society,  1947'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: Augustan Reprint Society, publication number 06
+subjects:
+- !lcsh 'Theater -- England -- Early works to 1800'
+- !lcc 'PN'
+- !lcsh 'Theater -- Moral and ethical aspects -- Early works to 1800'
+title: Representation of the Impiety and Immorality of the English Stage (1704); Some
+  Thoughts Concerning the Stage in a Letter to a Lady (1704)
+url: http://www.gutenberg.org/ebooks/15656
